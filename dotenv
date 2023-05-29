@@ -1,0 +1,8 @@
+TOKEN = 
+API_KEY = 
+CHANNEL_ID = 
+
+
+#TOKEN your discordbot token
+#API_KEY = openAi key
+#CHANNEL_ID = channels the bot can type, you custom it and add more (Index.js line 33)
